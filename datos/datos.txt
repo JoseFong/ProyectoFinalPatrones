@@ -1,0 +1,12 @@
+0001;Novela;Cien años de soledad;Gabriel García Márquez;1967;Realismo mágico
+0002;Novela;1984;George Orwell;1949;Distopía
+0003;Novela;Orgullo y prejuicio;Jane Austen;1813;Romance
+0004;Novela;Crimen y castigo;Fiódor Dostoyevski;1866;Drama psicológico
+0005;Novela;Don Quijote de la Mancha;Miguel de Cervantes;1605;Aventura
+0006;Novela;El nombre de la rosa;Umberto Eco;1980;Misterio histórico
+0007;Novela;El extranjero;Albert Camus;1942;Existencialismo
+0008;Novela;Rayuela;Julio Cortázar;1963;Ficción experimental
+0009;Novela;La sombra del viento;Carlos Ruiz Zafón;2001;Misterio
+0010;Novela;Los juegos del hambre;Suzanne Collins;2008;Ciencia ficción0011;Enciclopedia;Enciclopedia de Booth;John Booth;1995;Enciclopedia
+0011;Novela;Rebelión en la granja;George Orwell;1945;Fábula política
+0012;Enciclopedia;Enciclopedia de Booth;William Booth;1995;Enciclopedia
